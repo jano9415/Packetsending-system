@@ -1,0 +1,10 @@
+﻿  Szoftvertechnologia.cpp
+  box.cpp
+  container.cpp
+  customer.cpp
+c:\users\janoo\source\repos\szoftvertechnologia\szoftvertechnologia\customer.cpp(218): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\janoo\source\repos\szoftvertechnologia\szoftvertechnologia\customer.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\janoo\source\repos\szoftvertechnologia\szoftvertechnologia\customer.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\janoo\source\repos\szoftvertechnologia\szoftvertechnologia\customer.cpp(394): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Szoftvertechnologia.vcxproj -> C:\Users\janoo\source\repos\Szoftvertechnologia\Debug\Szoftvertechnologia.exe
